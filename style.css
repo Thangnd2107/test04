@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#div-name{
+    margin: 20px 20px; 
+}
+#div-pass{
+    margin: 20px 20px; 
+}
+#cf{
+    margin: 20px 20px; 
+}
+#cf{
+    margin: 20px 20px; 
+}
+#button-id{
+    margin-left: 20px;
+}
+
+p{
+    margin-left:20px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: brown;
+
+}
+
+
+
